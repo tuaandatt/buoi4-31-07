@@ -1,0 +1,14 @@
+C:\Users\lamtu\source\repos\buoi4\tham lam bien thien\bin\Debug\net8.0\tham lam bien thien.exe
+C:\Users\lamtu\source\repos\buoi4\tham lam bien thien\bin\Debug\net8.0\tham lam bien thien.deps.json
+C:\Users\lamtu\source\repos\buoi4\tham lam bien thien\bin\Debug\net8.0\tham lam bien thien.runtimeconfig.json
+C:\Users\lamtu\source\repos\buoi4\tham lam bien thien\bin\Debug\net8.0\tham lam bien thien.dll
+C:\Users\lamtu\source\repos\buoi4\tham lam bien thien\bin\Debug\net8.0\tham lam bien thien.pdb
+C:\Users\lamtu\source\repos\buoi4\tham lam bien thien\obj\Debug\net8.0\tham lam bien thien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamtu\source\repos\buoi4\tham lam bien thien\obj\Debug\net8.0\tham lam bien thien.AssemblyInfoInputs.cache
+C:\Users\lamtu\source\repos\buoi4\tham lam bien thien\obj\Debug\net8.0\tham lam bien thien.AssemblyInfo.cs
+C:\Users\lamtu\source\repos\buoi4\tham lam bien thien\obj\Debug\net8.0\tham lam bien thien.csproj.CoreCompileInputs.cache
+C:\Users\lamtu\source\repos\buoi4\tham lam bien thien\obj\Debug\net8.0\tham lam bien thien.dll
+C:\Users\lamtu\source\repos\buoi4\tham lam bien thien\obj\Debug\net8.0\refint\tham lam bien thien.dll
+C:\Users\lamtu\source\repos\buoi4\tham lam bien thien\obj\Debug\net8.0\tham lam bien thien.pdb
+C:\Users\lamtu\source\repos\buoi4\tham lam bien thien\obj\Debug\net8.0\tham lam bien thien.genruntimeconfig.cache
+C:\Users\lamtu\source\repos\buoi4\tham lam bien thien\obj\Debug\net8.0\ref\tham lam bien thien.dll

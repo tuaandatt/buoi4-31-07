@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lamtu\\source\\repos\\buoi4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBE9E6C-4D48-484A-947F-2AD903BB8380}|tham lam bien thien\\tham lam bien thien.csproj|c:\\users\\lamtu\\source\\repos\\buoi4\\tham lam bien thien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CBE9E6C-4D48-484A-947F-2AD903BB8380}|tham lam bien thien\\tham lam bien thien.csproj|solutionrelative:tham lam bien thien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28A8762-5051-4370-A2F4-7C39FB19D621}|buoi4\\buoi4.csproj|c:\\users\\lamtu\\source\\repos\\buoi4\\buoi4\\tham lam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28A8762-5051-4370-A2F4-7C39FB19D621}|buoi4\\buoi4.csproj|solutionrelative:buoi4\\tham lam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lamtu\\source\\repos\\buoi4\\tham lam bien thien\\Program.cs",
+              "RelativeDocumentMoniker": "tham lam bien thien\\Program.cs",
+              "ToolTip": "C:\\Users\\lamtu\\source\\repos\\buoi4\\tham lam bien thien\\Program.cs",
+              "RelativeToolTip": "tham lam bien thien\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:36:20.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tham lam.cs",
+              "DocumentMoniker": "C:\\Users\\lamtu\\source\\repos\\buoi4\\buoi4\\tham lam.cs",
+              "RelativeDocumentMoniker": "buoi4\\tham lam.cs",
+              "ToolTip": "C:\\Users\\lamtu\\source\\repos\\buoi4\\buoi4\\tham lam.cs",
+              "RelativeToolTip": "buoi4\\tham lam.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T01:39:13.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
